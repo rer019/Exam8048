@@ -1,7 +1,7 @@
 
 # Running and skiing captured by Garmin Vivoactive 4s
 
-This project is my exam in the course HEL-8048 at UiT. This is a repository with scripts to visualize running and skiing data. 
+This project is my exam in the course HEL-8048 at UiT. This is a repository with scripts to visualize running, skiing and weather data. 
 
 
 ## Data
